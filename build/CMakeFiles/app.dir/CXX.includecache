@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dragomir/dev/Snake/main.cpp
+iostream
+-
+MyLib/engine.hpp
+-
+MyLib/MathLib.hpp
+-
+vector
+-
+sys/time.h
+-
+unistd.h
+-
+

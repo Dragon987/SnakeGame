@@ -1,0 +1,3 @@
+/home/dragomir/dev/Snake/build/CMakeFiles/rebuild_cache.dir
+/home/dragomir/dev/Snake/build/CMakeFiles/app.dir
+/home/dragomir/dev/Snake/build/CMakeFiles/edit_cache.dir
